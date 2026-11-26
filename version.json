@@ -1,7 +1,7 @@
 {
- "versionCode": 6,
- "versionName": "1.3.2",
- "apkUrl": "https://raw.githubusercontent.com/station-sim-dev-hub/station-updates/main/TrainStation-1.3.2.apk",
- "sha256": "e8af99d0ccc148ae38f22ae065194729766aa70209de5bde6350745aed71c6be",
- "notes": "أجواء داخل القطار أثناء السواقة، وأجواء زحام خفيفة في المحطة، وأصوات المدينة عند فتح الأبواب. إشعارات للتحديثات الجديدة."
+ "versionCode": 7,
+ "versionName": "1.3.3",
+ "apkUrl": "https://raw.githubusercontent.com/station-sim-dev-hub/station-updates/main/TrainStation-1.3.3.apk",
+ "sha256": "3ac24c417354a29082e5cb1830f02ae4b29cea4a5ebcdd3f48f0332b3ac8a70f",
+ "notes": "تحسين إشعارات التحديث خارج اللعبة: فحص عند عودة الإنترنت وكل 15 دقيقة تقريبا، وإعادة التفعيل بعد تشغيل الهاتف، وصوت للإشعار."
 }
