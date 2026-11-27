@@ -1,7 +1,7 @@
 {
- "versionCode": 7,
- "versionName": "1.3.3",
- "apkUrl": "https://raw.githubusercontent.com/station-sim-dev-hub/station-updates/main/TrainStation-1.3.3.apk",
- "sha256": "3ac24c417354a29082e5cb1830f02ae4b29cea4a5ebcdd3f48f0332b3ac8a70f",
- "notes": "تحسين إشعارات التحديث خارج اللعبة: فحص عند عودة الإنترنت وكل 15 دقيقة تقريبا، وإعادة التفعيل بعد تشغيل الهاتف، وصوت للإشعار."
+ "versionCode": 8,
+ "versionName": "1.3.4",
+ "apkUrl": "https://raw.githubusercontent.com/station-sim-dev-hub/station-updates/main/TrainStation-1.3.4.apk",
+ "sha256": "54350d93305386036848699505fb0009a67ff5b16c4bd1d3ecaface6bc81785d",
+ "notes": "تحديث 1.3.4: صوت طقطقة عجلات هادئ ومختلف لكل قطر، يزيد في السرعة والطبقة مع السرعة. استقبال وفحص القطر بأصوات جديدة، وصوت رش المياه عند تنظيف العربات. مهمة واحدة تُقبل تلقائيا ومهام ورشة جديدة. أزرار زوّد وقلّل السرعة. اختيار القطر المملوك مع سماع صوته."
 }
